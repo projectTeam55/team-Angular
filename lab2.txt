@@ -1,0 +1,18 @@
+//////////// lab ///////////////
+
+Clone the below repo and answer the questions : 
+
+https://github.com/udacity/course-git-blog-project
+
+1-how many files were modified in the commit with the SHA 6f04ddd? 
+2-How many files were modified in the commit with the SHA 8d3ea36?
+3-Now it's time to look at the other info the --stat flag displays. How many lines of code were deleted in index.html in the commit with the SHA 8d3ea36? 
+4-look at the commit with the SHA 50d835d. What line number in app.css should you start looking at to see what has been changed?
+5-Using git log and any of its flags, what code was added in by commit 4a60beb?
+
+
+
+ css/app.css | 16 ++++++++++++++++
+ index.html  |  8 ++++----q
+ 2 files changed, 20 insertions(+), 4 deletions(-)
+Set default text color
